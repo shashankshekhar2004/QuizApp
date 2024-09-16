@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 ***************Netlify Deployment*******************
-Deployed Link-([LIVE ON](https://quizapp-shashank.netlify.app/))
+Deployed Link-([https://quizapp-shashank.netlify.app/](https://quizapp-shashank.netlify.app/))
 
 
